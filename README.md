@@ -1,3 +1,1 @@
-- ☁️ Cloud Engineering and Infrastructure
-- 💻 Software Development
-- 👟 Runner
+Cloud Engineering, Infrastructure and Software Development
