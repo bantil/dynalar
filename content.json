@@ -1,0 +1,136 @@
+{
+    "name": "Brandon Antillon",
+    "phoneNumber": "818-293-5195",
+    "email": "bantillon@pm.me",
+    "linkedInLink": "https://www.linkedin.com/in/brandon-antillon-1aa08492/",
+    "summary": "Software Engineer with several years of experience responsible for working with web applications both frontend and backend. Experienced in working in a fast-paced, collaborative software development environment with teams.",
+    "interests": [
+        "Full Stack Development",
+        "DevOps Engineer"
+    ],
+
+    "skills": [
+        "PHP",
+        "Python",
+        "Java",
+        "C#",
+        "JavaScript",
+        "jQuery",
+        "HTML5",
+        "CSS3",
+        "AJAX",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "Laravel 5+",
+        "Lumen",
+        "Symfony",
+        "Node.js",
+        "Vue.js",
+        "React.js",
+        "Docker",
+        "Kubernetes",
+        "Azure",
+        "Git",
+        "Bash",
+        "Mac OS X",
+        "Linux",
+        "Windows"
+    ],
+
+    "education": [
+        {
+            "major": "Bachelor of Science in Computer Information Technology",
+            "minor": "Minor in Geographic Information Science",
+            "university": "California State University, Northridge",
+            "stateCountry": "California, USA",
+            "dateRange": "September 2013 - May 2018"
+        },
+        {
+            "major": "Master of Science in Software Engineering",
+            "minor": null,
+            "university": "Arizona State University",
+            "stateCountry": "Arizona, USA",
+            "dateRange": "January 2021 - December 2023"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Corporate Travel Management - US",
+            "positions": [
+                {
+                    "title": "Senior Software Engineer",
+                    "dateRange": "August 2021 - Present",
+                    "responsibilities": [
+                        "Decomposed monolithic application systems into micro-services, and contributed to company's micro-service architecture.",
+                        "Architected CI/CD pipelines for our applications from development to deployment with Azure DevOps, AKS, and Azure Pipelines.",
+                        "Worked extensively with Docker containerization and Kubernetes to deploy our next-generation applications and microservices.",
+                        "Developed internal applications and supported other departments with both PHP/Lumen and NodeJS APIs. Categories include rebuilding our flight, hotel, car, and other travel related reservation systems."
+                    ]
+                },
+                {
+                    "title": "Software Engineer",
+                    "dateRange": "December 2018 - August 2021",
+                    "responsibilities": [
+                        "Contributed to the development of an api dedicated to searching/booking flights, now currently in use for Wells Fargo's loyalty points system using Laravel/Lumen.",
+                        "Aided in the development of the front-end for Wells Fargo loyalty points system, as well as front-end clients for other smaller clients like PNC and Harvard Rewards Alumni card.",
+                        "Worked with a team in an agile envionment, and used task tracking tools like Jira, Confluence for documentation, and Git for version control.",
+                        "Worked on transaction monitoring systems using NodeJS back-end, MongoDB, and React front-end."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "Motive Infrastructure Solutions",
+            "positions": [
+                {
+                    "title": "Full Stack Developer",
+                    "dateRange": "May 2018 - November 2018",
+                    "responsibilities": [
+                        "Collaborated with one other developer in an Agile environment to create, deploy and support an in-house ERP system written in PHP that 80+ users access every day.",
+                        "Used source control to manage code changes, and branches.",
+                        "Developed successor to old ERP system with one other developer. ERP system takes care of things like timesheets, company projects, employee management, and much more.",
+                        "Also in charge of fixing bugs within the ERP system, and consistently reported back to superiors about fixed issues.",
+                        "Communicated with staff and management to convert their requirements into code and features for the new ERP system.",
+                        "Other developer and I are the sole maintainers of the application, therefore we're the main points of contact whenever an issue arises.",
+                        "Used Vagrant/Ubuntu as a main development environment."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "USAePay",
+            "positions": [
+                {
+                    "title": "Junior DevOps Engineer",
+                    "dateRange": "May 2015 - January 2017",
+                    "responsibilities": [
+                        "Work with a development team in an Agile environment fixing bugs and implementing new features into the main product (a credit card processing web application).",
+                        "Extensively use source-control (Git) to manage code changes.",
+                        "Set up a sandbox environment comprised of Linux VMs with web servers, databases, load balancers, and other services that are successfully being used for product testing and prototyping.",
+                        "Quickly eliminated any assigned bugs ranging from backend PHP bugs to frontend JavaScript and UI bugs.",
+                        "Improved developer workflow by successfully implementing Vagrant virtual machines for use on developer local machines that mimic the production environment.",
+                        "Developed several tools for the company including a REST API that allows LDAP authentication between in-house applications and the central LDAP server."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "META+Lab",
+            "positions": [
+                {
+                    "title": "Student Assistant Developer",
+                    "dateRange": "November 2013 - May 2015",
+                    "responsibilities": [
+                        "Created web applications with a software development team in an Agile oriented environment.",
+                        "Technical environment included Laravel (PHP framework), JavaScript, HTML and CSS.",
+                        "Worked with Test Driven Development using Codeception for PHP, and extensively used source-control to keep track of projects.",
+                        "Developed a Faculty Finder system, with the development team, for students to easily locate professors, classes, office hours, and other relevant information.",
+                        "Developed an application that facilitates students to submit homework and for professors to confirm homework and assign grades.",
+                        "Participated in automating the deployment process of virtual machines for testing; employed Cobbler and Ansible to expedite the process and ensure consistency when creating Testing, Staging and Production environments."
+                    ]
+                }
+            ]
+        }
+    ]
+}
